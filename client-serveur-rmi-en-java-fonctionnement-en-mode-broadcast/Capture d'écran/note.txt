@@ -1,0 +1,17 @@
+Le serveur et le client se trouvent dans deux projets différents
+
+Les JAR exécutables sont disponible dans les repertoire dist/ des projets
+
+Le serveur dans: ServeurBroadcast
+Le client dans: ClientBroadcast
+
+Pour commencer:
+	1) Lancer le sereur, puis cliquer sur Start
+	2) Lancer le client et connectez-vous en donnant un login et un mot de passe (ces informations servent juste à faire la différence entre clients)
+	3) Copier l'adresse IP et ou le port du sereur et coller dans la partie IP serveur du client.
+	4) Saisir un message et cliquer sur envoyer (coté client).
+	5) recommencer à l'étape 2 jusqu'à 4 pour lancer un second client; faire autant pour ne nombre de client voulu.
+	Enjoy it !
+
+
+	
